@@ -1,4 +1,4 @@
-// Fix the variable names below, and log them out to the console!
+// 1. Fix the variable names below, and log them out to the console!
 
 const firstname = "Reed";
 console.log(firstname);
