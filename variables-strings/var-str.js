@@ -22,3 +22,9 @@ console.log(count);
 let price;
 price = 50;
 console.log(price);
+
+// Challenge 5: Help Darth Vader express himself to his son!
+const mySon = "Luke";
+const parentalStatus = "father";
+const message = "mySon, I am your";
+console.log(`${mySon}, ${message} ${parentalStatus}.`);
